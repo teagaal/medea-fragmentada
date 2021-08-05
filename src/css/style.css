@@ -122,6 +122,17 @@ h1 {
   transform: translateY(-125px);
 }
 
+.wrapper-aspecto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.arrow {
+  font-size: 7rem;
+  color: blueviolet;
+}
+
 /* Remove all animations and transitions for people that prefer not to see them */
 @media (prefers-reduced-motion: reduce) {
   html:focus-within {
