@@ -1,5 +1,5 @@
 ---
-title: Medea - Eros y Érebo
+title: Eros y Érebo
 layout: aspecto.njk
 ---
 

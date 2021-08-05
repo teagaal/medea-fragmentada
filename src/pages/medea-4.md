@@ -1,5 +1,5 @@
 ---
-title: Medea - Medea, la figura femenina estigmatizada
+title: Medea, la figura femenina estigmatizada
 layout: aspecto.njk
 ---
 

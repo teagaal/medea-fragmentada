@@ -1,23 +1,7 @@
 ---
-title: Medea - La razón de Medea
+title: La razón de Medea
 layout: aspecto.njk
 ---
 
-<div class="wrapper-aspecto">
-<audio>
-	<source src="../assets/medeajuli.wav"></source>
-</audio>
-<video controls autoplay preload="auto"
-    src="../assets/input.mp4"
-    width="800">
-</video>
+<iframe width="1400" height="720" src="https://www.youtube.com/embed/3YfeKhXb4GE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a class="arrow" href="/medea-4">&zigrarr;</a>
-</div>
-
-<script>
-    var audio = document.getElementsByTagName("audio")[0];
-if (audio) {
-  audio.play();
-}
-
-</script>
